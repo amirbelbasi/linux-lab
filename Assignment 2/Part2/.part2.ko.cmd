@@ -1,0 +1,1 @@
+cmd_/home/amir47/Desktop/TAMRIN2-AMIRALI-BELBASI-9831109/Part2/part2.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/amir47/Desktop/TAMRIN2-AMIRALI-BELBASI-9831109/Part2/part2.ko /home/amir47/Desktop/TAMRIN2-AMIRALI-BELBASI-9831109/Part2/part2.o /home/amir47/Desktop/TAMRIN2-AMIRALI-BELBASI-9831109/Part2/part2.mod.o ;  true
