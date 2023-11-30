@@ -1,4 +1,4 @@
-# operating-systems-lab
+# linux-lab
 
 * Various Linux Mini Projects | Operating Systems Lab
   * Manipulated linux to achieve various functionalities
